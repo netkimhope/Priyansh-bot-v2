@@ -16,13 +16,13 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Aeron Ai",
-    "PREFIX": "-",
+    "BOTNAME": "X'N Bot",
+    "PREFIX": "$",
     "ADMINBOT": [
-        "61564459952029"
+        "100086928967994"
     ],
     "NDH": [
-        "61564459952029"
+        "100086928967994"
     ],
     "DATABASE": {
         "sqlite": {
